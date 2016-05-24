@@ -20,7 +20,7 @@ public class Book {
 	
 	public Book() {
 	}
-// bnjhjhkj
+// bn
 	public Book(String title) {
 		this.title = title;
 	}
